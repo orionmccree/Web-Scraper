@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XM4AuwmzEpY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Orion mccree\\source\\repos\\WebScraper\\WebScraper\\WebScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Orion mccree\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\Orion mccree\\.nuget\\packages\\htmlagilitypack\\1.11.67\\htmlagilitypack.1.11.67.nupkg.sha512"
+  ],
+  "logs": []
+}
